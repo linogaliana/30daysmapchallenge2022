@@ -1,0 +1,7 @@
+pynsee
+requests
+io
+numpy
+time
+geopandas
+contextily
