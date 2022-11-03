@@ -1,7 +1,6 @@
 pynsee
 requests
-io
 numpy
-time
 geopandas
 contextily
+py7zr

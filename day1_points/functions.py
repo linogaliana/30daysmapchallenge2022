@@ -1,11 +1,13 @@
-import pynsee
 import requests
 import io   
-import numpy as np
 import time
+
+import numpy as np
+import pandas as pd
 import geopandas as gpd
 import contextily as ctx
 
+import pynsee
 
 def create_dataset_sirene(code_ape = '10.51C', number = 15000):
     # search data in SIRENE database
